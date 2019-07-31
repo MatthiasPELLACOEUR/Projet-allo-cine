@@ -5,7 +5,7 @@ Bienvenue dans le projet de fin de Prairie ! Nous allons concevoir un mini allo-
 Pour ce faire, vous avez à votre disposition : 
     Une arborescence simple de fichiers et de dossiers qui compse le projet.
     Une maquette pour vous aider a modélisé votre rendu.
-    Un fichier moovies.json qui vous servira de base de données.
+    Un fichier movies.json qui vous servira de base de données.
     Le code source de bootstrap pour structurer les éléments du projet.
 
 ## Consignes
