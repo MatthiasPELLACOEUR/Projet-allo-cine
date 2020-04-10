@@ -1,0 +1,47 @@
+@font-face{
+    font-family: "Raleway";
+    src: url(../font/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url(../font/Montserrat-Bold.ttf);
+}
+
+body {
+    font-family: "Raleway";
+}
+
+.header {
+    padding: 0;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.h1 {
+    font-size: 35px;    
+    font-family: "Montserrat-Bold";
+    color: white;
+}
+
+.card {
+    width: 55%;
+    margin: 0px auto;
+}
+
+.movies_img {
+    width:140px;
+    height:auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.card-img {
+    margin-right: 10px;
+}
+
+.infos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
